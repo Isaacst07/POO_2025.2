@@ -33,7 +33,7 @@ e métodos: andar, pular, piscar.
 | Habilidade destra      | Sistema de Pet Shop                   | Contexto Escolar                           | Contexto Futebolístico         |
 | Endereço               | Aplicativo de Música                  | Contexto Trabalhista                       | Sistema de vendas Online       |
 | Saldo em conta         | Rede Sociais                          | Aplicativo de Gerenciamento de Contas      | Sistema Bancário               |
-| Etnia                  | Aplicativo de Música                  | Aplicativo de moda ou beleza               | Sistema Governamental          |
+| Etnia                  | Aplicativo de Música                  | Aplicativo de moda ou beleza               | Cadastro social         |
 
 ---
 
@@ -50,7 +50,7 @@ Na programação Estruturada, um *array* ou lista seria um elemento que represen
 1. Servidores  
 2. Diretor  
 3. Pedagogo  
-4. Grade Curricular  
+4. Grade Curricular   
 5. Período letivo  
 
 ---
